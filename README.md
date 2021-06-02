@@ -42,3 +42,5 @@ To plot the figure as used in the paper that compares the different indicators, 
 
     python plot.py
 
+## License
+[MIT license](https://github.com/COVID19-CMM/jomb-assessment-indicators/blob/master/LICENSE)
